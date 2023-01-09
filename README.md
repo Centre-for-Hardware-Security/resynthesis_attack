@@ -10,7 +10,7 @@ The script is set to tcbn65lptc (TSMC 65 nm), however, the user can change the t
 # set_db library <lib>
  ```
  
-  ###########################################################################################################
+  ##############################################################################################
   ```
   Usage:   perl genus_synth.pl -mod=<str> -gen=<str> -map=<str> -opt=<str> -dc=<int> -pmt=<int> -kdc -bsd -ldd -crl=<int> -auto -bench -dux
   -mod:    Name of the module of the top design
@@ -32,7 +32,7 @@ The script is set to tcbn65lptc (TSMC 65 nm), however, the user can change the t
     In auto option, design results are reported in a summary file
     In ldd method, the delay constraint is decreased by the value of critical path delay in first synthesis divided by the Cadence run limit
   ```
-  ###########################################################################################################
+  ##############################################################################################
  ```
 # Default command in the paper: perl genus_synth.pl -mod=<str> -ldd -crl=5 -auto -bench -dux
  ```
