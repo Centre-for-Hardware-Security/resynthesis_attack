@@ -35,4 +35,26 @@ The script must be configured to point to a standard cell library. Check line #2
 #######################################################################################
  ```
 # Default command in the paper: perl genus_synth.pl -mod=<str> -ldd -crl=5 -auto -bench -dux
- ```
+```
+
+Use the following format of your choice to cite this paper:
+
+1- Bibtex
+
+@INPROCEEDINGS{9806291,
+  author={Almeida, Felipe and Aksoy, Levent and Nguyen, Quang Linh and Dupuis, Sophie and Flottes, Marie Lise and Pagliarini, Samuel},
+  booktitle={2023 24rd International Symposium on Quality Electronic Design (ISQED)}, 
+  title={Resynthesis-based Attacks Against Logic Locking}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={},
+  doi={}}
+
+2- IEEE
+
+F. Almeida, L. Aksoy, Q-L. Nguyen, S. Dupuis, M-L. Flottes, S. Pagliarini, "Resynthesis-based Attacks Against Logic Locking," 2023 24rd International Symposium on Quality Electronic Design (ISQED), 2023.
+
+3- Preprint
+
+The preprint of the paper is available on the following link: <waiting>
