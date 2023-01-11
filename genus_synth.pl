@@ -263,8 +263,8 @@ set_db super_thread_servers "localhost"
 ### Using the libraries ###
 
 # To set the library search path and library file
-set_db init_lib_search_path /export/designkits/tsmc/tsmc65/ip/msrflp/STDCELL/tcbn65lp_220a/FE/TSMCHOME/digital/Front_End/timing_power_noise/NLDM/tcbn65lp_220a
-set_db library tcbn65lptc.lib 
+set_db init_lib_search_path /path/to/my/library/
+set_db library library.lib 
 
 # To set the script search path
 #set_db script_search_path path
