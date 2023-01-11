@@ -4,7 +4,7 @@ Scripts and other material related to the resynthesis-based attack strategy agai
 
 A resynthesis-based strategy that utilizes the strength of a commercial electronic design automation (EDA) tool to reveal the vulnerabilities of a locked circuit. To do so, in a pre-attack step, a locked netlist is resynthesized using different synthesis parameters in a systematic way, leading to a large number of functionally equivalent but structurally different locked circuits.
 
-The script is set to tcbn65lptc (TSMC 65 nm), however, the user can change the target library in the genus_synth.pl to any library:
+The script must be configured to point to a standard cell library. Check line #266 of genus_synth.pl:
  ```
 # set_db init_lib_search_path <lib_path>
 # set_db library <lib>
