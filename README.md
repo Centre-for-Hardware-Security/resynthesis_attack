@@ -57,4 +57,4 @@ F. Almeida, L. Aksoy, Q-L. Nguyen, S. Dupuis, M-L. Flottes, S. Pagliarini, "Resy
 
 3- Preprint
 
-The preprint of the paper is available on the following link: <waiting>
+The preprint of the paper is available on the following link: https://arxiv.org/abs/2301.04400
