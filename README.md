@@ -43,7 +43,7 @@ Use the following format of your choice to cite this paper:
 
 @INPROCEEDINGS{9806291,
   author={Almeida, Felipe and Aksoy, Levent and Nguyen, Quang Linh and Dupuis, Sophie and Flottes, Marie Lise and Pagliarini, Samuel},
-  booktitle={2023 24rd International Symposium on Quality Electronic Design (ISQED)}, 
+  booktitle={2023 24th International Symposium on Quality Electronic Design (ISQED)}, 
   title={Resynthesis-based Attacks Against Logic Locking}, 
   year={2023},
   volume={},
@@ -53,7 +53,7 @@ Use the following format of your choice to cite this paper:
 
 2- IEEE
 
-F. Almeida, L. Aksoy, Q-L. Nguyen, S. Dupuis, M-L. Flottes, S. Pagliarini, "Resynthesis-based Attacks Against Logic Locking," 2023 24rd International Symposium on Quality Electronic Design (ISQED), 2023.
+F. Almeida, L. Aksoy, Q-L. Nguyen, S. Dupuis, M-L. Flottes, S. Pagliarini, "Resynthesis-based Attacks Against Logic Locking," 2023 24th International Symposium on Quality Electronic Design (ISQED), 2023.
 
 3- Preprint
 
