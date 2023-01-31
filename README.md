@@ -1,4 +1,4 @@
-# resynthesis_attack
+# resynthesis tool
 
 Scripts and other material related to the resynthesis-based attack strategy against logic locking.
 
