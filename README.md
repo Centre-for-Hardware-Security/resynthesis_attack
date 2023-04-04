@@ -36,6 +36,25 @@ The script must be configured to point to a standard cell library. Check line #2
  ```
 # Default command in the paper: perl genus_synth.pl -mod=<str> -ldd -crl=5 -auto -bench -dux
 ```
+Scripts to translate between verilog and bench file and vice versa are available too.
+
+# Command:
+
+#####################################################################################
+# Usage:       perl bench2ver.pl -f=<FileName>                                      #
+# net:         Name of the bench file which includes a locked design                #
+# Description: This code converts the locked bench file to a Verilog file using ABC #
+#####################################################################################
+
+##########################################################################################################
+# Usage:       perl ver2bench.pl -v=<FileName> -l=<FileName> -o=<FileName> -verb=<int>                   #
+# v:           Name of the Verilog file including the gate-level netlist                                 #
+# l:           Name of the library file including the gate functions                                     #
+# o:           Name of the output file by default it is extracted from the Verilog file                  #
+# verb:        Level of verbosity by default it is 0 and the comments in the bench file are suppresed    #
+# Description: This code converts the gate-level netlist in Verilog to the bench format                  #
+# Notes:       The function of a gate given in the library must not include any spaces                   #
+##########################################################################################################
 
 Use the following format of your choice to cite this paper:
 
