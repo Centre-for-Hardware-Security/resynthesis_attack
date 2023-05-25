@@ -64,15 +64,15 @@ Use the following format of your choice to cite this paper:
 
 1- Bibtex
 
-@INPROCEEDINGS{9806291,
-  author={Almeida, Felipe and Aksoy, Levent and Nguyen, Quang Linh and Dupuis, Sophie and Flottes, Marie Lise and Pagliarini, Samuel},
+@INPROCEEDINGS{10129403,
+  author={Almeida, Felipe and Aksoy, Levent and Nguyen, Quang-Linh and Dupuis, Sophie and Flottes, Marie-Lise and Pagliarini, Samuel},
   booktitle={2023 24th International Symposium on Quality Electronic Design (ISQED)}, 
   title={Resynthesis-based Attacks Against Logic Locking}, 
   year={2023},
   volume={},
   number={},
-  pages={},
-  doi={}}
+  pages={1-8},
+  doi={10.1109/ISQED57927.2023.10129403}}
 
 2- IEEE
 
